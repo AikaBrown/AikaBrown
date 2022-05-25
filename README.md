@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emiliano (@AikaBrown).
+- 👋 Hi, I’m Emiliano (@ebalderasr).
 - 👀 I’m interested in Biotechnology, Bioengineering, mechanical and electronic technology development.
 - 🌱 I’m currently learning programation, specifically Data Science with Python, and design and application of genome-scale models.
 - 💞️ I’m looking to collaborate on development of bioengineering tools.
